@@ -1,7 +1,3 @@
-Sure! Here's a sample README for the **Clumsy Bird Game**:
-
----
-
 # Clumsy Bird Game
 
 Clumsy Bird is a fun, fast-paced arcade game where players control a bird trying to navigate through a series of pipes without crashing. The goal is to see how long you can keep the bird flying while avoiding obstacles. It's easy to pick up but hard to master!
